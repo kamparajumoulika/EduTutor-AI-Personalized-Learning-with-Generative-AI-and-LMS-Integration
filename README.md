@@ -31,7 +31,7 @@ Kasulanti Deepika	(Team Leader),     | Backend Integration & Deployment  |Built 
 📽 Demo Video
 
 🎥 Watch our full demo here:
-🔗 https://drive.google.com/file/d/1zHCoU_jledaTIvRY3W9n245sR7RDBUmI/view?usp=drive_link
+🔗 https://drive.google.com/file/d/1767AFOu94Q69J_1cd2Uem_RS4v5tqake/view?usp=drive_link
 
 
 -----
